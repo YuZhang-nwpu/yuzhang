@@ -1,3 +1,3 @@
 # 我的学术主页
 
-**My howepage:** https://zhangyu-nwpu.github.io/aisys.cs.nwpu.github.io/
+**My howepage:** https://yuzhang-nwpu.github.io/yuzhang/
